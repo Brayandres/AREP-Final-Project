@@ -14,7 +14,7 @@ La intención es que a través del entendimiento de esta información que podamo
 
 Nuestra plataforma también va enfocada a edtudiantes, de manera que estos también puedan obtener consejos e información a fin de evitar su proceso de deserción y entender qué motiva este fenómeno.
 
-![Structure](https://github.com/Brayandres/AREP-Final-Project/Resources/Structure.png)
+![Structure](https://raw.githubusercontent.com/Brayandres/AREP-Final-Project/main/Resources/Structure.png)
 
 
 ### Construcción y Arquitectura
@@ -23,7 +23,7 @@ La plataforma está diseñada para que las entidades puedan obtener datos y para
 
 La herramienta cuenta con distintas tablas que están cargadas con cantidades enormes de datos. La solución Redshift de Amazon entra en juego cuando deseamos generar análisis eficientes y valiosos sobre cantidades tan enormes de datos.
 	
-![Architecture](https://github.com/Brayandres/AREP-Final-Project/Resources/Architecture.jpg)
+![Architecture](https://raw.githubusercontent.com/Brayandres/AREP-Final-Project/main/Resources/Architecture.jpg)
 
 
 ### Funcionamiento
@@ -34,11 +34,11 @@ La herramienta cuenta con distintas tablas que están cargadas con cantidades en
 
 - Uso y manejo de Amazon Redshift
 
-	![Redshift](https://github.com/Brayandres/AREP-Final-Project/Resources/Redshift.jpg)
+	![Redshift](https://raw.githubusercontent.com/Brayandres/AREP-Final-Project/main/Resources/Redshift.jpg)
 
 -  Test de carga y uso masivo en consulta de datos.
 
-	![Tests](https://github.com/Brayandres/AREP-Final-Project/Resources/Tests.jpg)
+	![Tests](https://raw.githubusercontent.com/Brayandres/AREP-Final-Project/main/Resources/Tests.jpg)
 
 
 ## Oportunidades
@@ -65,7 +65,7 @@ En pro de aprovechar todas las características ofrecidas por el proceso de tran
 La idea es que todos estos servicios puedan ser aprovechados por medio de la plataforma web.
 Destacar que en una primera instancia, solo va a estar disponible para Colombia.
 
-![MapsWireframe](https://github.com/Brayandres/AREP-Final-Project/Resources/MapsWireframe.jpg)
+![MapsWireframe](https://raw.githubusercontent.com/Brayandres/AREP-Final-Project/main/Resources/MapsWireframe.jpg)
 
 - Ponderado de datos por región:
 La idea es que se puedan mostrar a través de distintos mapas cada uno de los parámetros interesantes y pertinentes a la deserción estudiantil, así, vamos a poder identificar más fácilmente por regiones cuales son las mayores afectaciones de cada zona, y cuáles han sido o serían las estrategias más útiles que se podrían aplicar, o sea, las que se han probado útiles en esa zona.
