@@ -20,6 +20,7 @@ Nuestra plataforma también va enfocada a edtudiantes, de manera que estos tambi
 ### Construcción y Arquitectura
 Nuestra plataforma está construída sobre un modelo de SQL que facilita el acceso a datos teniendo en cuenta que SQL representa un estandar importante hoy en día. Así,  el proceso de conexión para entidades educativas, gubernamentales e interesadas será gestionado a través de un driver JDBC que permitirá obtener la información sobre los datos de nuestra base de datos.
 La plataforma está diseñada para que las entidades puedan obtener datos y para que también puedan cargarlos.
+
 La herramienta cuenta con distintas tablas que están cargadas con cantidades enormes de datos. La solución Redshift de Amazon entra en juego cuando deseamos generar análisis eficientes y valiosos sobre cantidades tan enormes de datos.
 	
 ![Architecture](https://github.com/Brayandres/AREP-Final-Project/Resources/Architecture.jpg)
